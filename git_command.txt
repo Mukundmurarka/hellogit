@@ -1,0 +1,6 @@
+git command 
+ git init    => to initilize
+ git add     => to add the file 
+ git commit -m "first"     => to store the data safely to local database in any format
+ git remote add origin <url>     => to link the repositry with a remote repositry
+ git push -u origin master      =>  it used to push changes from the local master branch to the remote master branch
